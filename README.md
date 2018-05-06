@@ -11,7 +11,7 @@
 | UP | 26/05/2018 | -OpenVas Gestor De Vulnerabilidades  -Forense con Volatility      |8:00 am / 12:00 pm| Eduardo Snape, Rafael Lara       |        [Link](https://github.com/floss-pa/Agenda_Anual/blob/master/2018/FIEC2605.md)         |
 | UIP| 29/05/2018 | Python Meetup || []()        |                 |
 | UIP| 11/06/2018 | _Pendiente_ || []()        |                 |
-| UP | 13/06/2018 | Ciberseguridad  -“Gato de casa”. Ataques internos: riegos y estrategias de mitigación. -Ciber terrorismo Panama: posibles escenarios en la JMJ2019       |6:00 pm / 9:00 pm |  Luis Araujo, Eduardo Snape               |  [Link](https://github.com/floss-pa/Agenda_Anual/blob/master/2018/FIEC1306.MD)
+| UP | 13/06/2018 | Ciberseguridad  -“Gato de casa”. Ataques internos: riegos y estrategias de mitigación.|6:00 pm / 9:00 pm |  Luis Araujo, Eduardo Snape               |  [Link](https://github.com/floss-pa/Agenda_Anual/blob/master/2018/FIEC1306.MD)
 | UP | 23/06/2018 | Talleres       |8:00 am / 12:00 pm| []()        |                 |
 | UIP| 25/08/2018 | Linux Day 2018       || []()        |                 |
 | UP | 29/08/2018 | Conferenicas             |6:00 pm / 9:00 pm |                 |                 |
