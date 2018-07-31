@@ -11,9 +11,10 @@
 | UIP| 29/05/2018 | ~~Fedora Release Party~~ | 6:00 pm / 9:00 pm | Jose Reyes, Abdel Martinez, Luis Bazan | [Link](2018/FRP28.md)  |
 | UP | 13/06/2018 |~~-El valor de la información  -“Gato de casa”. Ataques internos: riegos y estrategias de mitigación.~~|6:00 pm / 9:00 pm |  Luis Araujo,Álvaro Andrade , Eduardo Snape               |  [Link](https://github.com/floss-pa/Agenda_Anual/blob/master/2018/FIEC1306.MD)
 | UP | 23/06/2018 | Taller	-Laravel PHP Con Clase  - GitHub     |8:00 am / 12:00 pm| Davis Álvarez, Maryon Torres   | [Link](https://github.com/floss-pa/Agenda_Anual/blob/master/2018/FIEC2306.MD)                |
-| UP | 09/07/2018 | La influencia de la tecnología en los emprendedores |6:00 pm / 9:00 pm |                 |                 |
-| UIP| 25/08/2018 | Linux Day 2018       || []()        |                 |
-| UP | 29/08/2018 | Conferenicas             |6:00 pm / 9:00 pm |                 |                 |
+| UP | 09/07/2018 | ~~La influencia de la tecnología en los emprendedores~~ |6:00 pm / 9:00 pm |                 |                |
+| UP | 25/09/2018 | Docker Meetup             |6:00 pm / 9:00 pm |                 |                 |
+| UIP| 25/10/2018 - 26/10/2018 | Linux Week 2018       || []()        |                 |
+| UP | 25/08/2018 | Conferenicas             |6:00 pm / 9:00 pm |                 |                 |
 | UP | 15/09/2018 | Talleres             |8:00 am / 12:00 pm|                 |                 |
 | UIP| 22/09/2018 | Software Freedom Day 2018 || []()   |                 | |
 | UP | 26/09/2018 | Conferencias                 |6:00 pm / 9:00 pm|                 |                 |
