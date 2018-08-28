@@ -16,8 +16,9 @@
 | UIP| 22/09/2018 | Software Freedom Day 2018 || []()   |                 | |
 | UIP | 25/09/2018 | Docker Meetup             |6:00 pm / 9:00 pm |                 |                 |
 | UP | 29/09/2018 | Taller Desarrollo Mobile           |8:00 am / 12:00 pm |     EtyaLab            |  [Link](https://github.com/floss-pa/Agenda_Anual/blob/master/2018/FIEC0809.MD)                |
+| UP | 04/10/2018 | Participación en Jueves Tecnológicos           |11:00 am / 12:00 pm |     André Conte            |                 |
 | UP | 06/10/2018 | Taller Arduino          |9:00 am / 12:00 pm |     Nacion Bits            |  [Link](https://github.com/floss-pa/Agenda_Anual/blob/master/2018/FIEC0610.MD)                |
-| UP | 18/10/2018 | Criptomonedas, Smart Contracts         |6:00 pm / 8:00 pm |      Por Definir           |  [Link](https://github.com/floss-pa/Agenda_Anual/blob/master/2018/FIEC1810.MD)                |
+| UP | 18/10/2018 | Criptomonedas, Smart Contracts         |6:00 pm / 8:00 pm |      Block Factory          |  [Link](https://github.com/floss-pa/Agenda_Anual/blob/master/2018/FIEC1810.MD)                |
 | UP | 20/10/2018 | Taller Arduino          |9:00 am / 12:00 pm |     Nacion Bits            |  [Link](https://github.com/floss-pa/Agenda_Anual/blob/master/2018/FIEC2010.MD)                |
 | UIP| 25/10/2018 - 26/10/2018 | Linux Week 2018       || []()        |                 |
 | UP | 14/11/2018 | La Influencia De La Tecnología En Los Emprendedores          |6:00 pm / 9:00 pm |     Por Definir          |  [Link](https://github.com/floss-pa/Agenda_Anual/blob/master/2018/FIEC1411.MD)                |
