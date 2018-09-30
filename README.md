@@ -12,10 +12,10 @@
 | UP | 13/06/2018 |~~-El valor de la información  -“Gato de casa”. Ataques internos: riegos y estrategias de mitigación.~~|6:00 pm / 9:00 pm |  Luis Araujo,Álvaro Andrade , Eduardo Snape               |  [Link](https://github.com/floss-pa/Agenda_Anual/blob/master/2018/FIEC1306.MD)
 | UP | 23/06/2018 | ~~Taller	-Laravel PHP Con Clase  - GitHub~~     |8:00 am / 12:00 pm| Davis Álvarez, Maryon Torres   | [Link](https://github.com/floss-pa/Agenda_Anual/blob/master/2018/FIEC2306.MD)                |
 | UP | 09/07/2018 | ~~La influencia de la tecnología en los emprendedores~~ |6:00 pm / 9:00 pm |                 |                |
-| UP | 22/09/2018 | Taller Desarrollo Mobile           |8:00 am / 12:00 pm |     Roberto Zubieta            |  [Link](https://github.com/floss-pa/Agenda_Anual/blob/master/2018/FIEC0809.MD)                |
+| UP | 22/09/2018 | ~~-Taller Desarrollo Mobile         ~~-  |8:00 am / 12:00 pm |     Roberto Zubieta            |  [Link](https://github.com/floss-pa/Agenda_Anual/blob/master/2018/FIEC0809.MD)                |
 | UIP| 22/09/2018 | Software Freedom Day 2018 || []()   |                 | |
 | UIP | 25/09/2018 | Docker Meetup             |6:00 pm / 9:00 pm |                 |                 |
-| UP | 29/09/2018 | Taller Desarrollo Mobile           |8:00 am / 12:00 pm |     EtyaLab            |  [Link](https://github.com/floss-pa/Agenda_Anual/blob/master/2018/FIEC0809.MD)                |
+| UP | 29/09/2018 | ~~-Taller Desarrollo Mobile  ~~-         |8:00 am / 12:00 pm |     EtyaLab            |  [Link](https://github.com/floss-pa/Agenda_Anual/blob/master/2018/FIEC0809.MD)                |
 | UP | 04/10/2018 | Participación en Jueves Tecnológicos           |11:00 am / 12:00 pm |     André Conte            |                 |
 | UP | 06/10/2018 | Taller Arduino          |9:00 am / 12:00 pm |     Nacion Bits            |  [Link](https://github.com/floss-pa/Agenda_Anual/blob/master/2018/FIEC0610.MD)                |
 | UP | 18/10/2018 | Criptomonedas, Smart Contracts         |6:00 pm / 8:00 pm |      Block Factory(Walter Álvarez), Adrian Scott          |  [Link](https://github.com/floss-pa/Agenda_Anual/blob/master/2018/FIEC1810.MD)                |
